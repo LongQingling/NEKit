@@ -1,0 +1,4331 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/AdapterFactoryParser.swift",
+      "line": 4,
+      "symbol": "AdapterFactoryParser",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/AdapterFactoryParser.swift",
+      "line": 6,
+      "symbol": "AdapterFactoryParser.parseAdapterFactoryManager(config:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/AdapterFactoryParser.swift",
+      "line": 41,
+      "symbol": "AdapterFactoryParser.parseServerAdapterFactory(config:type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/AdapterFactoryParser.swift",
+      "line": 65,
+      "symbol": "AdapterFactoryParser.parseSOCKS5AdapterFactory(config:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/AdapterFactoryParser.swift",
+      "line": 77,
+      "symbol": "AdapterFactoryParser.parseShadowsocksAdapterFactory(config:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/AdapterFactoryParser.swift",
+      "line": 97,
+      "symbol": "AdapterFactoryParser.parseSpeedAdapterFactory(config:factoryDict:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/AdapterFactoryParser.swift",
+      "line": 120,
+      "symbol": "AdapterFactoryParser.parseRejectAdapterFactory(config:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 4,
+      "symbol": "ConfigurationParserError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.AdapterIDMissing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.AdapterParsingError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.AdapterTypeMissing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.AdapterTypeUnknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.InvalidYamlFile",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.NoAdapterDefined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.NoRuleDefined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.RuleParsingError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.RuleTypeMissing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 5,
+      "symbol": "ConfigurationParserError.UnknownRuleType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 12,
+      "symbol": "Configuration.adapterFactoryManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 13,
+      "symbol": "Configuration.proxyPort",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 14,
+      "symbol": "Configuration.ruleManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 16,
+      "symbol": "Configuration.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 18,
+      "symbol": "Configuration.load(fromConfigString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 29,
+      "symbol": "Configuration.load(fromConfigFile:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 34,
+      "symbol": "Configuration.loadConfig(config:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/Configuration.swift",
+      "line": 43,
+      "symbol": "Yaml.stringOrIntString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/RuleParser.swift",
+      "line": 4,
+      "symbol": "RuleParser",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/RuleParser.swift",
+      "line": 5,
+      "symbol": "RuleParser.parseRuleManager(config:adapterFactoryManager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/RuleParser.swift",
+      "line": 18,
+      "symbol": "RuleParser.parseRule(config:adapterFactoryManager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/RuleParser.swift",
+      "line": 39,
+      "symbol": "RuleParser.parseCountryRule(config:adapterFactoryManager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/RuleParser.swift",
+      "line": 59,
+      "symbol": "RuleParser.parseAllRule(config:adapterFactoryManager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/RuleParser.swift",
+      "line": 71,
+      "symbol": "RuleParser.parseDomainListRule(config:adapterFactoryManager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/RuleParser.swift",
+      "line": 103,
+      "symbol": "RuleParser.parseIPRangeListRule(config:adapterFactoryManager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Config/RuleParser.swift",
+      "line": 130,
+      "symbol": "RuleParser.parseDNSFailRule(config:adapterFactoryManager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 4,
+      "symbol": "CCCrypto",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 5,
+      "symbol": "CCCrypto.Algorithm",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 6,
+      "symbol": "CCCrypto.Algorithm.AES",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 6,
+      "symbol": "CCCrypto.Algorithm.CAST",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 6,
+      "symbol": "CCCrypto.Algorithm.RC4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 8,
+      "symbol": "CCCrypto.Algorithm.toCCAlgorithm()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 20,
+      "symbol": "CCCrypto.Mode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 21,
+      "symbol": "CCCrypto.Mode.CFB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 21,
+      "symbol": "CCCrypto.Mode.RC4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 23,
+      "symbol": "CCCrypto.Mode.toCCMode()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 33,
+      "symbol": "CCCrypto.cryptor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 35,
+      "symbol": "CCCrypto.init(operation:mode:algorithm:initialVector:key:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 41,
+      "symbol": "CCCrypto.update(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CCCrypto.swift",
+      "line": 47,
+      "symbol": "CCCrypto.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 4,
+      "symbol": "CryptoOperation",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 5,
+      "symbol": "CryptoOperation.Decrypt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 5,
+      "symbol": "CryptoOperation.Encrypt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 7,
+      "symbol": "CryptoOperation.toCCOperation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 17,
+      "symbol": "CryptoAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 18,
+      "symbol": "CryptoAlgorithm.AES128CFB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 18,
+      "symbol": "CryptoAlgorithm.AES192CFB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 18,
+      "symbol": "CryptoAlgorithm.AES256CFB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 18,
+      "symbol": "CryptoAlgorithm.CHACHA20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 18,
+      "symbol": "CryptoAlgorithm.RC4MD5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoEnum.swift",
+      "line": 18,
+      "symbol": "CryptoAlgorithm.SALSA20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoHelper.swift",
+      "line": 3,
+      "symbol": "CryptoHelper",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoHelper.swift",
+      "line": 4,
+      "symbol": "CryptoHelper.infoDictionary",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoHelper.swift",
+      "line": 13,
+      "symbol": "CryptoHelper.getKeyLength(methodType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoHelper.swift",
+      "line": 17,
+      "symbol": "CryptoHelper.getIVLength(methodType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoHelper.swift",
+      "line": 21,
+      "symbol": "CryptoHelper.getIV(methodType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/CryptoHelper.swift",
+      "line": 27,
+      "symbol": "CryptoHelper.getKey(password:methodType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/Libsodium.swift",
+      "line": 4,
+      "symbol": "Libsodium",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/MD5Hash.swift",
+      "line": 4,
+      "symbol": "MD5Hash",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/MD5Hash.swift",
+      "line": 5,
+      "symbol": "MD5Hash.final(value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/MD5Hash.swift",
+      "line": 10,
+      "symbol": "MD5Hash.final(value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 4,
+      "symbol": "SodiumStreamCrypto",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 5,
+      "symbol": "SodiumStreamCrypto.Alogrithm",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 6,
+      "symbol": "SodiumStreamCrypto.Alogrithm.Chacha20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 6,
+      "symbol": "SodiumStreamCrypto.Alogrithm.Salsa20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 9,
+      "symbol": "SodiumStreamCrypto.key",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 10,
+      "symbol": "SodiumStreamCrypto.iv",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 11,
+      "symbol": "SodiumStreamCrypto.algorithm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 13,
+      "symbol": "SodiumStreamCrypto.counter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 15,
+      "symbol": "SodiumStreamCrypto.blockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 17,
+      "symbol": "SodiumStreamCrypto.init(key:iv:algorithm:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/SodiumStreamCrypto.swift",
+      "line": 24,
+      "symbol": "SodiumStreamCrypto.update(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/StreamCryptoProtocol.swift",
+      "line": 3,
+      "symbol": "StreamCryptoProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Crypto/StreamCryptoProtocol.swift",
+      "line": 4,
+      "symbol": "StreamCryptoProtocol.update(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 4,
+      "symbol": "DebugObserverFactory",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 5,
+      "symbol": "DebugObserverFactory.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 7,
+      "symbol": "DebugObserverFactory.getObserverForTunnel(tunnel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 11,
+      "symbol": "DebugObserverFactory.getObserverForProxyServer(server:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 15,
+      "symbol": "DebugObserverFactory.getObserverForProxySocket(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 19,
+      "symbol": "DebugObserverFactory.getObserverForAdapterSocket(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 23,
+      "symbol": "DebugObserverFactory.getObserverForRuleManager(manager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 28,
+      "symbol": "DebugTunnelObserver",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 29,
+      "symbol": "DebugTunnelObserver.signal(event:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 50,
+      "symbol": "DebugProxySocketObserver",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 51,
+      "symbol": "DebugProxySocketObserver.signal(event:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 71,
+      "symbol": "DebugAdapterSocketObserver",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 72,
+      "symbol": "DebugAdapterSocketObserver.signal(event:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 91,
+      "symbol": "DebugProxyServerObserver",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 92,
+      "symbol": "DebugProxyServerObserver.signal(event:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 104,
+      "symbol": "DebugRuleManagerObserver",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/DebugObserver.swift",
+      "line": 105,
+      "symbol": "DebugRuleManagerObserver.signal(event:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 3,
+      "symbol": "AdapterSocketEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 31,
+      "symbol": "AdapterSocketEvent.SocketOpened",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 32,
+      "symbol": "AdapterSocketEvent.DisconnectCalled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 33,
+      "symbol": "AdapterSocketEvent.ForceDisconnectCalled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 34,
+      "symbol": "AdapterSocketEvent.Disconnected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 35,
+      "symbol": "AdapterSocketEvent.ReadData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 36,
+      "symbol": "AdapterSocketEvent.WroteData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 37,
+      "symbol": "AdapterSocketEvent.Connected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 38,
+      "symbol": "AdapterSocketEvent.ReadyForForward",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/AdapterSocketEvent.swift",
+      "line": 39,
+      "symbol": "AdapterSocketEvent.ErrorOccured",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/EventType.swift",
+      "line": 3,
+      "symbol": "EventType",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxyServerEvent.swift",
+      "line": 3,
+      "symbol": "ProxyServerEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxyServerEvent.swift",
+      "line": 17,
+      "symbol": "ProxyServerEvent.NewSocketAccepted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxyServerEvent.swift",
+      "line": 17,
+      "symbol": "ProxyServerEvent.Started",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxyServerEvent.swift",
+      "line": 17,
+      "symbol": "ProxyServerEvent.Stopped",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxyServerEvent.swift",
+      "line": 17,
+      "symbol": "ProxyServerEvent.TunnelClosed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 3,
+      "symbol": "ProxySocketEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 33,
+      "symbol": "ProxySocketEvent.SocketOpened",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 34,
+      "symbol": "ProxySocketEvent.DisconnectCalled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 35,
+      "symbol": "ProxySocketEvent.ForceDisconnectCalled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 36,
+      "symbol": "ProxySocketEvent.Disconnected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 37,
+      "symbol": "ProxySocketEvent.ReceivedRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 38,
+      "symbol": "ProxySocketEvent.ReadData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 39,
+      "symbol": "ProxySocketEvent.WroteData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 40,
+      "symbol": "ProxySocketEvent.ReceivedResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 41,
+      "symbol": "ProxySocketEvent.ReadyForForward",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/ProxySocketEvent.swift",
+      "line": 42,
+      "symbol": "ProxySocketEvent.ErrorOccured",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/RuleMatchEvent.swift",
+      "line": 3,
+      "symbol": "RuleMatchEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/RuleMatchEvent.swift",
+      "line": 15,
+      "symbol": "RuleMatchEvent.DNSRuleMatched",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/RuleMatchEvent.swift",
+      "line": 15,
+      "symbol": "RuleMatchEvent.RuleDidNotMatch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/RuleMatchEvent.swift",
+      "line": 15,
+      "symbol": "RuleMatchEvent.RuleMatched",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 3,
+      "symbol": "TunnelEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 45,
+      "symbol": "TunnelEvent.Opened",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 46,
+      "symbol": "TunnelEvent.CloseCalled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 47,
+      "symbol": "TunnelEvent.ForceCloseCalled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 48,
+      "symbol": "TunnelEvent.ReceivedRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 49,
+      "symbol": "TunnelEvent.ReceivedReadySignal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 50,
+      "symbol": "TunnelEvent.ProxySocketReadData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 51,
+      "symbol": "TunnelEvent.ProxySocketWroteData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 52,
+      "symbol": "TunnelEvent.AdapterSocketReadData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 53,
+      "symbol": "TunnelEvent.AdapterSocketWroteData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 54,
+      "symbol": "TunnelEvent.ConnectedToRemote",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 55,
+      "symbol": "TunnelEvent.UpdatingAdapterSocket",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Event/TunnelEvent.swift",
+      "line": 56,
+      "symbol": "TunnelEvent.Closed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Observer.swift",
+      "line": 3,
+      "symbol": "Observer",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Observer.swift",
+      "line": 4,
+      "symbol": "Observer.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/Observer.swift",
+      "line": 5,
+      "symbol": "Observer.signal(event:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/ObserverFactory.swift",
+      "line": 3,
+      "symbol": "ObserverFactory",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/ObserverFactory.swift",
+      "line": 4,
+      "symbol": "ObserverFactory.currentFactory",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/ObserverFactory.swift",
+      "line": 6,
+      "symbol": "ObserverFactory.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/ObserverFactory.swift",
+      "line": 8,
+      "symbol": "ObserverFactory.getObserverForTunnel(tunnel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/ObserverFactory.swift",
+      "line": 12,
+      "symbol": "ObserverFactory.getObserverForAdapterSocket(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/ObserverFactory.swift",
+      "line": 16,
+      "symbol": "ObserverFactory.getObserverForProxySocket(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/ObserverFactory.swift",
+      "line": 20,
+      "symbol": "ObserverFactory.getObserverForProxyServer(server:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Event/ObserverFactory.swift",
+      "line": 24,
+      "symbol": "ObserverFactory.getObserverForRuleManager(manager:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/GeoIP/GeoIP.swift",
+      "line": 4,
+      "symbol": "GeoIP",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/GeoIP/GeoIP.swift",
+      "line": 5,
+      "symbol": "GeoIP.database",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/GeoIP/GeoIP.swift",
+      "line": 7,
+      "symbol": "GeoIP.LookUp(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 3,
+      "symbol": "DNSType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.A",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.A6",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.AAAA",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.AFSDB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.ANY",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.APL",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.ATMA",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.AXFR",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.CERT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.CNAME",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.DNAME",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.DNSKEY",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.DS",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.EID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.GPOS",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.HINFO",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.INVALID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.ISDN",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.IXFR",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.KEY",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.KX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.LOC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MAILA",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MAILB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MD",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MF",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MG",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MINFO",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MR",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.MX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.NAPTR",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.NIMLOC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.NS",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.NSAP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.NSAPPTR",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.NSEC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.NULL",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.NXT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.OPT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.PTR",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.PX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.RP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.RRSIG",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.RT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.SIG",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.SINK",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.SOA",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.SRV",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.SSHFP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.TKEY",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.TSIG",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.TXT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.WKS",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 5,
+      "symbol": "DNSType.X25",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 8,
+      "symbol": "DNSMessageType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 9,
+      "symbol": "DNSMessageType.Query",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 9,
+      "symbol": "DNSMessageType.Response",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 12,
+      "symbol": "DNSReturnStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 13,
+      "symbol": "DNSReturnStatus.FormatError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 13,
+      "symbol": "DNSReturnStatus.NameError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 13,
+      "symbol": "DNSReturnStatus.NotImplemented",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 13,
+      "symbol": "DNSReturnStatus.Refused",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 13,
+      "symbol": "DNSReturnStatus.ServerFailure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 13,
+      "symbol": "DNSReturnStatus.Success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 16,
+      "symbol": "DNSClass",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSEnums.swift",
+      "line": 17,
+      "symbol": "DNSClass.Internet",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 4,
+      "symbol": "DNSMessage",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 9,
+      "symbol": "DNSMessage.transactionID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 10,
+      "symbol": "DNSMessage.messageType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 11,
+      "symbol": "DNSMessage.authoritative",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 12,
+      "symbol": "DNSMessage.truncation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 13,
+      "symbol": "DNSMessage.recursionDesired",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 14,
+      "symbol": "DNSMessage.recursionAvailable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 15,
+      "symbol": "DNSMessage.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 16,
+      "symbol": "DNSMessage.queries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 17,
+      "symbol": "DNSMessage.answers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 18,
+      "symbol": "DNSMessage.nameservers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 19,
+      "symbol": "DNSMessage.addtionals",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 21,
+      "symbol": "DNSMessage.payload",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 23,
+      "symbol": "DNSMessage.mutablePayload",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 28,
+      "symbol": "DNSMessage.bytesLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 44,
+      "symbol": "DNSMessage.resolvedIPv4Address",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 53,
+      "symbol": "DNSMessage.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 57,
+      "symbol": "DNSMessage.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 59,
+      "symbol": "DNSMessage.init(payload:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 114,
+      "symbol": "DNSMessage.buildMessage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 149,
+      "symbol": "DNSMessage.setPayloadWithUInt8(value:at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 154,
+      "symbol": "DNSMessage.setPayloadWithUInt16(value:at:swap:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 164,
+      "symbol": "DNSMessage.setPayloadWithUInt32(value:at:swap:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 174,
+      "symbol": "DNSMessage.setPayloadWithData(data:at:length:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 183,
+      "symbol": "DNSMessage.resetPayloadAt(at:length:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 228,
+      "symbol": "DNSQuery",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 229,
+      "symbol": "DNSQuery.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 230,
+      "symbol": "DNSQuery.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 231,
+      "symbol": "DNSQuery.klass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 232,
+      "symbol": "DNSQuery.nameBytesLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 234,
+      "symbol": "DNSQuery.init(name:type:klass:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 241,
+      "symbol": "DNSQuery.init(payload:offset:base:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 262,
+      "symbol": "DNSQuery.bytesLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 267,
+      "symbol": "DNSResource",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 268,
+      "symbol": "DNSResource.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 269,
+      "symbol": "DNSResource.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 270,
+      "symbol": "DNSResource.klass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 271,
+      "symbol": "DNSResource.TTL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 272,
+      "symbol": "DNSResource.dataLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 273,
+      "symbol": "DNSResource.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 275,
+      "symbol": "DNSResource.nameBytesLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 277,
+      "symbol": "DNSResource.init(name:type:klass:TTL:data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 287,
+      "symbol": "DNSResource.ARecord(name:TTL:address:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 291,
+      "symbol": "DNSResource.init(payload:offset:base:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 313,
+      "symbol": "DNSResource.bytesLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 317,
+      "symbol": "DNSResource.ipv4Address",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 325,
+      "symbol": "DNSNameConverter",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 326,
+      "symbol": "DNSNameConverter.setName(name:toData:at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSMessage.swift",
+      "line": 348,
+      "symbol": "DNSNameConverter.getNamefromData(data:offset:base:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 3,
+      "symbol": "DNSResolverProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 4,
+      "symbol": "DNSResolverProtocol.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 5,
+      "symbol": "DNSResolverProtocol.resolve(session:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 6,
+      "symbol": "DNSResolverProtocol.stop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 9,
+      "symbol": "DNSResolverDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 10,
+      "symbol": "DNSResolverDelegate.didReceiveResponse(rawResponse:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 13,
+      "symbol": "UDPDNSResolver",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 14,
+      "symbol": "UDPDNSResolver.socket",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 15,
+      "symbol": "UDPDNSResolver.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 17,
+      "symbol": "UDPDNSResolver.init(address:port:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 22,
+      "symbol": "UDPDNSResolver.resolve(session:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSResolver.swift",
+      "line": 26,
+      "symbol": "UDPDNSResolver.stop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSServer.swift",
+      "line": 195,
+      "symbol": "DNSServer.isFakeIP(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSServer.swift",
+      "line": 199,
+      "symbol": "DNSServer.lookupFakeIP(address:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSServer.swift",
+      "line": 231,
+      "symbol": "DNSServer.didReceiveResponse(rawResponse:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 4,
+      "symbol": "DNSSession",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 5,
+      "symbol": "DNSSession.requestMessage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 6,
+      "symbol": "DNSSession.requestIPPacket",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 7,
+      "symbol": "DNSSession.realIP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 8,
+      "symbol": "DNSSession.fakeIP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 9,
+      "symbol": "DNSSession.realResponseMessage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 10,
+      "symbol": "DNSSession.realResponseIPPacket",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 11,
+      "symbol": "DNSSession.matchedRule",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 12,
+      "symbol": "DNSSession.matchResult",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 13,
+      "symbol": "DNSSession.indexToMatch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 14,
+      "symbol": "DNSSession.expireAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 15,
+      "symbol": "DNSSession.countryCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 23,
+      "symbol": "DNSSession.init(message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/DNS/DNSSession.swift",
+      "line": 37,
+      "symbol": "DNSSession.init(packet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 4,
+      "symbol": "IPVersion",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 5,
+      "symbol": "IPVersion.IPv4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 5,
+      "symbol": "IPVersion.IPv6",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 8,
+      "symbol": "TransportProtocol",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 9,
+      "symbol": "TransportProtocol.ICMP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 9,
+      "symbol": "TransportProtocol.TCP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 9,
+      "symbol": "TransportProtocol.UDP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 261,
+      "symbol": "IPPacket.computePseudoHeaderChecksum()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 274,
+      "symbol": "IPPacket.buildPacket()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 298,
+      "symbol": "IPPacket.setPayloadWithUInt8(value:at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 303,
+      "symbol": "IPPacket.setPayloadWithUInt16(value:at:swap:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 313,
+      "symbol": "IPPacket.setPayloadWithUInt32(value:at:swap:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 323,
+      "symbol": "IPPacket.setPayloadWithData(data:at:length:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/IPPacket.swift",
+      "line": 332,
+      "symbol": "IPPacket.resetPayloadAt(at:length:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 3,
+      "symbol": "TransportProtocolParserProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 4,
+      "symbol": "TransportProtocolParserProtocol.packetData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 6,
+      "symbol": "TransportProtocolParserProtocol.offset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 8,
+      "symbol": "TransportProtocolParserProtocol.bytesLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 10,
+      "symbol": "TransportProtocolParserProtocol.payload",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 12,
+      "symbol": "TransportProtocolParserProtocol.buildSegment(pseudoHeaderChecksum:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 43,
+      "symbol": "UDPProtocolParser.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 45,
+      "symbol": "UDPProtocolParser.init(packetData:offset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/Packet/PacketProtocolParser.swift",
+      "line": 59,
+      "symbol": "UDPProtocolParser.buildSegment(pseudoHeaderChecksum:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/TCPStack.swift",
+      "line": 74,
+      "symbol": "TCPStack.didAcceptTCPSocket(sock:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/UDPDirectStack.swift",
+      "line": 3,
+      "symbol": "ConnectInfo",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/UDPDirectStack.swift",
+      "line": 4,
+      "symbol": "ConnectInfo.sourceAddress",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/UDPDirectStack.swift",
+      "line": 5,
+      "symbol": "ConnectInfo.sourcePort",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/UDPDirectStack.swift",
+      "line": 6,
+      "symbol": "ConnectInfo.destinationAddress",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/UDPDirectStack.swift",
+      "line": 7,
+      "symbol": "ConnectInfo.destinationPort",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/UDPDirectStack.swift",
+      "line": 14,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/IPStack/UDPDirectStack.swift",
+      "line": 30,
+      "symbol": "UDPDirectStack.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/ConnectRequest.swift",
+      "line": 66,
+      "symbol": "ConnectRequest.init(host:port:fakeIPEnabled:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/ConnectRequest.swift",
+      "line": 80,
+      "symbol": "ConnectRequest.init(ipAddress:port:fakeIPEnabled:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/ConnectRequest.swift",
+      "line": 115,
+      "symbol": "ConnectRequest.isIPv4()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/ConnectRequest.swift",
+      "line": 119,
+      "symbol": "ConnectRequest.isIPv6()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/ConnectRequest.swift",
+      "line": 123,
+      "symbol": "ConnectRequest.isIP()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/ConnectResponse.swift",
+      "line": 4,
+      "symbol": "ConnectResponse",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 3,
+      "symbol": "HTTPHeader",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 4,
+      "symbol": "HTTPHeader.HTTPVersion",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 5,
+      "symbol": "HTTPHeader.method",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 6,
+      "symbol": "HTTPHeader.isConnect",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 7,
+      "symbol": "HTTPHeader.path",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 8,
+      "symbol": "HTTPHeader.pathURL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 9,
+      "symbol": "HTTPHeader.host",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 10,
+      "symbol": "HTTPHeader.port",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 13,
+      "symbol": "HTTPHeader.contentLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 14,
+      "symbol": "HTTPHeader.headers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 15,
+      "symbol": "HTTPHeader.rawHeader",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 17,
+      "symbol": "HTTPHeader.init(headerString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 103,
+      "symbol": "HTTPHeader.init(headerData:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 124,
+      "symbol": "HTTPHeader.toData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 128,
+      "symbol": "HTTPHeader.toString()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 137,
+      "symbol": "HTTPHeader.addHeader(key:value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 141,
+      "symbol": "HTTPHeader.rewriteToRelativePath()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 150,
+      "symbol": "HTTPHeader.removeHeader(key:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 160,
+      "symbol": "HTTPHeader.removeProxyHeader()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 167,
+      "symbol": "HTTPHeader.URL",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 169,
+      "symbol": "HTTPHeader.URL.relativePathRegex",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Messages/HTTPHeader.swift",
+      "line": 171,
+      "symbol": "HTTPHeader.URL.matchRelativePath(url:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 3,
+      "symbol": "Opt",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 4,
+      "symbol": "Opt.MAXNWTCPSocketReadDataSize",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 7,
+      "symbol": "Opt.MAXNWTCPScanLength",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 9,
+      "symbol": "Opt.DNSFakeIPTTL",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 11,
+      "symbol": "Opt.DNSPendingSessionLifeTime",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 13,
+      "symbol": "Opt.UDPSocketActiveTimeout",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 15,
+      "symbol": "Opt.UDPSocketActiveCheckInterval",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 17,
+      "symbol": "Opt.MAXHTTPContentBlockLength",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 19,
+      "symbol": "Opt.RejectAdapterDefaultDelay",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Opt.swift",
+      "line": 21,
+      "symbol": "Opt.ProxyActiveSocketLimit",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/ProxyServer/GCDProxyServer.swift",
+      "line": 80,
+      "symbol": "GCDProxyServer.processPendingSocket()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/ProxyServer/ProxyServer.swift",
+      "line": 28,
+      "symbol": "ProxyServer.observer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/ProxyServer/ProxyServer.swift",
+      "line": 30,
+      "symbol": "ProxyServer.tunnels",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/GCDTCPSocket.swift",
+      "line": 223,
+      "symbol": "GCDTCPSocket.socket(sock:didWriteDataWithTag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/GCDTCPSocket.swift",
+      "line": 227,
+      "symbol": "GCDTCPSocket.socket(sock:didReadData:withTag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/GCDTCPSocket.swift",
+      "line": 231,
+      "symbol": "GCDTCPSocket.socketDidDisconnect(socket:withError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/GCDTCPSocket.swift",
+      "line": 237,
+      "symbol": "GCDTCPSocket.socket(sock:didConnectToHost:port:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/GCDTCPSocket.swift",
+      "line": 243,
+      "symbol": "GCDTCPSocket.socketDidSecure(sock:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/NWTCPSocket.swift",
+      "line": 9,
+      "symbol": "NWTCPSocket.ScannerReadTag",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/NWTCPSocket.swift",
+      "line": 196,
+      "symbol": "NWTCPSocket.observeValueForKeyPath(keyPath:ofObject:change:context:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/NWTCPSocket.swift",
+      "line": 293,
+      "symbol": "NWTCPSocket.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/NWUDPSocket.swift",
+      "line": 76,
+      "symbol": "NWUDPSocket.disconnect()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/RawSocketFactory.swift",
+      "line": 11,
+      "symbol": "SocketBaseType.GCD",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/RawSocketFactory.swift",
+      "line": 11,
+      "symbol": "SocketBaseType.NW",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 9,
+      "symbol": "SocketTag.Forward",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 12,
+      "symbol": "SocketTag.HTTP",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 14,
+      "symbol": "SocketTag.HTTP.Header",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 15,
+      "symbol": "SocketTag.HTTP.Content",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 18,
+      "symbol": "SocketTag.HTTP.ConnectResponse",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 19,
+      "symbol": "SocketTag.HTTP.RemoteContent",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 23,
+      "symbol": "SocketTag.SOCKS5",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 29,
+      "symbol": "SocketTag.SOCKS5.ConnectMethod",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/SocketTag.swift",
+      "line": 73,
+      "symbol": "SocketTag.tunnelTag",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/TUNTCPSocket.swift",
+      "line": 212,
+      "symbol": "TUNTCPSocket.localDidClose(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/TUNTCPSocket.swift",
+      "line": 216,
+      "symbol": "TUNTCPSocket.socketDidReset(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/TUNTCPSocket.swift",
+      "line": 220,
+      "symbol": "TUNTCPSocket.socketDidAbort(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/TUNTCPSocket.swift",
+      "line": 224,
+      "symbol": "TUNTCPSocket.socketDidClose(socket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/TUNTCPSocket.swift",
+      "line": 231,
+      "symbol": "TUNTCPSocket.didReadData(data:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/RawSocket/TUNTCPSocket.swift",
+      "line": 238,
+      "symbol": "TUNTCPSocket.didWriteData(length:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/AllRule.swift",
+      "line": 7,
+      "symbol": "AllRule.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/CountryRule.swift",
+      "line": 14,
+      "symbol": "CountryRule.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DNSFailRule.swift",
+      "line": 7,
+      "symbol": "DNSFailRule.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DNSSessionMatchResult.swift",
+      "line": 12,
+      "symbol": "DNSSessionMatchResult.Fake",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DNSSessionMatchResult.swift",
+      "line": 12,
+      "symbol": "DNSSessionMatchResult.Pass",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DNSSessionMatchResult.swift",
+      "line": 12,
+      "symbol": "DNSSessionMatchResult.Real",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DNSSessionMatchResult.swift",
+      "line": 12,
+      "symbol": "DNSSessionMatchResult.Unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DNSSessionMatchType.swift",
+      "line": 12,
+      "symbol": "DNSSessionMatchType.Domain",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DNSSessionMatchType.swift",
+      "line": 12,
+      "symbol": "DNSSessionMatchType.IP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DirectRule.swift",
+      "line": 7,
+      "symbol": "DirectRule.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DomainListRule.swift",
+      "line": 5,
+      "symbol": "DomainListRule.MatchCriterion",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DomainListRule.swift",
+      "line": 6,
+      "symbol": "DomainListRule.MatchCriterion.Keyword",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DomainListRule.swift",
+      "line": 6,
+      "symbol": "DomainListRule.MatchCriterion.Prefix",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DomainListRule.swift",
+      "line": 6,
+      "symbol": "DomainListRule.MatchCriterion.Regex",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DomainListRule.swift",
+      "line": 6,
+      "symbol": "DomainListRule.MatchCriterion.Suffix",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DomainListRule.swift",
+      "line": 8,
+      "symbol": "DomainListRule.MatchCriterion.match(domain:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/DomainListRule.swift",
+      "line": 24,
+      "symbol": "DomainListRule.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/IPRangeListRule.swift",
+      "line": 7,
+      "symbol": "IPRangeListRule.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Rule/RuleManager.swift",
+      "line": 13,
+      "symbol": "RuleManager.observer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/AdapterSocket.swift",
+      "line": 3,
+      "symbol": "AdapterSocket",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/AdapterSocket.swift",
+      "line": 4,
+      "symbol": "AdapterSocket.request",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/AdapterSocket.swift",
+      "line": 5,
+      "symbol": "AdapterSocket.response",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/AdapterSocket.swift",
+      "line": 7,
+      "symbol": "AdapterSocket.observer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/AdapterSocket.swift",
+      "line": 9,
+      "symbol": "AdapterSocket.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/AdapterSocket.swift",
+      "line": 11,
+      "symbol": "AdapterSocket.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/AdapterSocket.swift",
+      "line": 52,
+      "symbol": "AdapterSocket.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/DirectAdapter.swift",
+      "line": 8,
+      "symbol": "DirectAdapter.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/AdapterFactory.swift",
+      "line": 32,
+      "symbol": "DirectAdapterFactory.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/AuthenticationServerAdapterFactory.swift",
+      "line": 5,
+      "symbol": "HTTPAuthenticationAdapterFactory.auth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/AuthenticationServerAdapterFactory.swift",
+      "line": 7,
+      "symbol": "HTTPAuthenticationAdapterFactory.init(serverHost:serverPort:auth:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/HTTPAdapterFactory.swift",
+      "line": 5,
+      "symbol": "HTTPAdapterFactory.init(serverHost:serverPort:auth:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/RejectAdapterFactory.swift",
+      "line": 3,
+      "symbol": "RejectAdapterFactory",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/RejectAdapterFactory.swift",
+      "line": 4,
+      "symbol": "RejectAdapterFactory.delay",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/RejectAdapterFactory.swift",
+      "line": 6,
+      "symbol": "RejectAdapterFactory.init(delay:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/SOCKS5AdapterFactory.swift",
+      "line": 5,
+      "symbol": "SOCKS5AdapterFactory.init(serverHost:serverPort:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/SecureHTTPAdapterFactory.swift",
+      "line": 5,
+      "symbol": "SecureHTTPAdapterFactory.init(serverHost:serverPort:auth:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/ServerAdapterFactory.swift",
+      "line": 5,
+      "symbol": "ServerAdapterFactory.serverHost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/ServerAdapterFactory.swift",
+      "line": 6,
+      "symbol": "ServerAdapterFactory.serverPort",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/ServerAdapterFactory.swift",
+      "line": 8,
+      "symbol": "ServerAdapterFactory.init(serverHost:serverPort:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/ShadowsocksAdapterFactory.swift",
+      "line": 5,
+      "symbol": "ShadowsocksAdapterFactory.encryptAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/ShadowsocksAdapterFactory.swift",
+      "line": 6,
+      "symbol": "ShadowsocksAdapterFactory.password",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/ShadowsocksAdapterFactory.swift",
+      "line": 8,
+      "symbol": "ShadowsocksAdapterFactory.init(serverHost:serverPort:encryptAlgorithm:password:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/ShadowsocksAdapterFactory.swift",
+      "line": 14,
+      "symbol": "ShadowsocksAdapterFactory.init(serverHost:serverPort:encryptAlgorithm:password:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/SpeedAdapterFactory.swift",
+      "line": 5,
+      "symbol": "SpeedAdapterFactory.adapterFactories",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/Factory/SpeedAdapterFactory.swift",
+      "line": 7,
+      "symbol": "SpeedAdapterFactory.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 3,
+      "symbol": "HTTPAdapterError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 4,
+      "symbol": "HTTPAdapterError.InvalidURL",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 4,
+      "symbol": "HTTPAdapterError.SerailizationFailure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 31,
+      "symbol": "HTTPAdapter.ReadTag",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 32,
+      "symbol": "HTTPAdapter.ReadTag.ConnectResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 34,
+      "symbol": "HTTPAdapter.WriteTag",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 35,
+      "symbol": "HTTPAdapter.WriteTag.Connect",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 35,
+      "symbol": "HTTPAdapter.WriteTag.HEADER",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/HTTPAdapter.swift",
+      "line": 38,
+      "symbol": "HTTPAdapter.init(serverHost:serverPort:auth:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/RejectAdapter.swift",
+      "line": 3,
+      "symbol": "RejectAdapter",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/RejectAdapter.swift",
+      "line": 4,
+      "symbol": "RejectAdapter.delay",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/RejectAdapter.swift",
+      "line": 6,
+      "symbol": "RejectAdapter.init(delay:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 3,
+      "symbol": "SOCKS5Adapter",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 4,
+      "symbol": "SOCKS5Adapter.serverHost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 5,
+      "symbol": "SOCKS5Adapter.serverPort",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 7,
+      "symbol": "SOCKS5Adapter.helloData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 9,
+      "symbol": "SOCKS5Adapter.ReadTag",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 10,
+      "symbol": "SOCKS5Adapter.ReadTag.ConnectResponseFirstPart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 10,
+      "symbol": "SOCKS5Adapter.ReadTag.ConnectResponseSecondPart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 10,
+      "symbol": "SOCKS5Adapter.ReadTag.MethodResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 13,
+      "symbol": "SOCKS5Adapter.WriteTag",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 14,
+      "symbol": "SOCKS5Adapter.WriteTag.ConnectDomainLength",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 14,
+      "symbol": "SOCKS5Adapter.WriteTag.ConnectIPv4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 14,
+      "symbol": "SOCKS5Adapter.WriteTag.ConnectIPv6",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 14,
+      "symbol": "SOCKS5Adapter.WriteTag.ConnectPort",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 14,
+      "symbol": "SOCKS5Adapter.WriteTag.Open",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SOCKS5Adapter.swift",
+      "line": 17,
+      "symbol": "SOCKS5Adapter.init(serverHost:serverPort:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SecureHTTPAdapter.swift",
+      "line": 5,
+      "symbol": "SecureHTTPAdapter.init(serverHost:serverPort:auth:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 6,
+      "symbol": "ShadowsocksAdapter.readIV",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 7,
+      "symbol": "ShadowsocksAdapter.key",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 8,
+      "symbol": "ShadowsocksAdapter.encryptAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 9,
+      "symbol": "ShadowsocksAdapter.host",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 10,
+      "symbol": "ShadowsocksAdapter.port",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 12,
+      "symbol": "ShadowsocksAdapter.readingIV",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 13,
+      "symbol": "ShadowsocksAdapter.nextReadTag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 15,
+      "symbol": "ShadowsocksAdapter.writeIV",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 19,
+      "symbol": "ShadowsocksAdapter.ivLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 23,
+      "symbol": "ShadowsocksAdapter.encryptor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 27,
+      "symbol": "ShadowsocksAdapter.decryptor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 32,
+      "symbol": "ShadowsocksAdapter.EncryptMethod",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 33,
+      "symbol": "ShadowsocksAdapter.EncryptMethod.AES128CFB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 33,
+      "symbol": "ShadowsocksAdapter.EncryptMethod.AES192CFB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 33,
+      "symbol": "ShadowsocksAdapter.EncryptMethod.AES256CFB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 35,
+      "symbol": "ShadowsocksAdapter.EncryptMethod.allValues",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 38,
+      "symbol": "ShadowsocksAdapter.ShadowsocksTag",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 39,
+      "symbol": "ShadowsocksAdapter.ShadowsocksTag.Connect",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 39,
+      "symbol": "ShadowsocksAdapter.ShadowsocksTag.InitialVector",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 42,
+      "symbol": "ShadowsocksAdapter.init(host:port:encryptAlgorithm:password:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 80,
+      "symbol": "ShadowsocksAdapter.writeRawData(data:withTag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 122,
+      "symbol": "ShadowsocksAdapter.encryptData(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/ShadowsocksAdapter.swift",
+      "line": 126,
+      "symbol": "ShadowsocksAdapter.decryptData(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SpeedAdapter.swift",
+      "line": 5,
+      "symbol": "SpeedAdapter",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SpeedAdapter.swift",
+      "line": 6,
+      "symbol": "SpeedAdapter.adapters",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SpeedAdapter.swift",
+      "line": 7,
+      "symbol": "SpeedAdapter.connectingCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SpeedAdapter.swift",
+      "line": 8,
+      "symbol": "SpeedAdapter.pendingCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SpeedAdapter.swift",
+      "line": 12,
+      "symbol": "SpeedAdapter.queue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/AdapterSocket/SpeedAdapter.swift",
+      "line": 20,
+      "symbol": "SpeedAdapter.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/ProxySocket/HTTPProxySocket.swift",
+      "line": 3,
+      "symbol": "HTTPProxySocket",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/ProxySocket/ProxySocket.swift",
+      "line": 8,
+      "symbol": "ProxySocket.observer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/ProxySocket/ProxySocket.swift",
+      "line": 15,
+      "symbol": "ProxySocket.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/ProxySocket/ProxySocket.swift",
+      "line": 23,
+      "symbol": "ProxySocket.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Socket/ProxySocket/SOCKS5ProxySocket.swift",
+      "line": 3,
+      "symbol": "SOCKS5ProxySocket",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Tunnel.swift",
+      "line": 3,
+      "symbol": "TunnelDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Tunnel.swift",
+      "line": 4,
+      "symbol": "TunnelDelegate.tunnelDidClose(tunnel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Tunnel.swift",
+      "line": 18,
+      "symbol": "Tunnel.observer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Tunnel.swift",
+      "line": 36,
+      "symbol": "Tunnel.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Tunnel.swift",
+      "line": 44,
+      "symbol": "Tunnel.init(proxySocket:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Tunnel.swift",
+      "line": 79,
+      "symbol": "Tunnel.forceClose()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 23,
+      "symbol": "BinaryReadable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 24,
+      "symbol": "BinaryReadable.littleEndian",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 25,
+      "symbol": "BinaryReadable.bigEndian",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 29,
+      "symbol": "UInt8.littleEndian",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 30,
+      "symbol": "UInt8.bigEndian",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 39,
+      "symbol": "BinaryDataScanner",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 40,
+      "symbol": "BinaryDataScanner.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 41,
+      "symbol": "BinaryDataScanner.littleEndian",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 44,
+      "symbol": "BinaryDataScanner.current",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 45,
+      "symbol": "BinaryDataScanner.remaining",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 46,
+      "symbol": "BinaryDataScanner.position",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 52,
+      "symbol": "BinaryDataScanner.init(data:littleEndian:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 61,
+      "symbol": "BinaryDataScanner.read()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 74,
+      "symbol": "BinaryDataScanner.skipTo(n:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 79,
+      "symbol": "BinaryDataScanner.advanceBy(n:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 86,
+      "symbol": "BinaryDataScanner.readByte()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 90,
+      "symbol": "BinaryDataScanner.read16()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 94,
+      "symbol": "BinaryDataScanner.read32()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/BinaryDataScanner.swift",
+      "line": 98,
+      "symbol": "BinaryDataScanner.read64()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/Checksum.swift",
+      "line": 3,
+      "symbol": "Checksum",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/Checksum.swift",
+      "line": 5,
+      "symbol": "Checksum.computeChecksum(data:from:to:withPseudoHeaderChecksum:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/Checksum.swift",
+      "line": 9,
+      "symbol": "Checksum.validateChecksum(payload:from:to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/Checksum.swift",
+      "line": 14,
+      "symbol": "Checksum.computeChecksumUnfold(data:from:to:withPseudoHeaderChecksum:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/Checksum.swift",
+      "line": 38,
+      "symbol": "Checksum.toChecksum(checksum:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 3,
+      "symbol": "HTTPStreamScanner",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 4,
+      "symbol": "HTTPStreamScanner.ReadAction",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 5,
+      "symbol": "HTTPStreamScanner.ReadAction.ReadContent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 5,
+      "symbol": "HTTPStreamScanner.ReadAction.ReadHeader",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 5,
+      "symbol": "HTTPStreamScanner.ReadAction.Stop",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 8,
+      "symbol": "HTTPStreamScanner.nextAction",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 10,
+      "symbol": "HTTPStreamScanner.remainContentLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 12,
+      "symbol": "HTTPStreamScanner.currentHeader",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 14,
+      "symbol": "HTTPStreamScanner.isConnect",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/HTTPStreamScanner.swift",
+      "line": 16,
+      "symbol": "HTTPStreamScanner.input(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 3,
+      "symbol": "IPAddress",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 4,
+      "symbol": "IPAddress.init(fromString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 5,
+      "symbol": "IPAddress.init(fromBytesInNetworkOrder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 6,
+      "symbol": "IPAddress.init(fromBytesInNetworkOrder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 8,
+      "symbol": "IPAddress.dataInNetworkOrder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 11,
+      "symbol": "IPv4Address",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 14,
+      "symbol": "IPv4Address.init(fromInAddr:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 18,
+      "symbol": "IPv4Address.init(fromUInt32InHostOrder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 22,
+      "symbol": "IPv4Address.init(fromBytesInNetworkOrder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 26,
+      "symbol": "IPv4Address.init(fromString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 39,
+      "symbol": "IPv4Address.init(fromBytesInNetworkOrder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 47,
+      "symbol": "IPv4Address.presentation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 62,
+      "symbol": "IPv4Address.UInt32InHostOrder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 66,
+      "symbol": "IPv4Address.UInt32InNetworkOrder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 70,
+      "symbol": "IPv4Address.withBytesInNetworkOrder(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 76,
+      "symbol": "IPv4Address.dataInNetworkOrder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPAddress.swift",
+      "line": 85,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 3,
+      "symbol": "IPRangeError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 4,
+      "symbol": "IPRangeError.InvalidCIDRFormat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 4,
+      "symbol": "IPRangeError.InvalidFormat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 4,
+      "symbol": "IPRangeError.InvalidRangeFormat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 4,
+      "symbol": "IPRangeError.RangeIsTooLarge",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 7,
+      "symbol": "IPRange",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 8,
+      "symbol": "IPRange.baseIP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 9,
+      "symbol": "IPRange.range",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 11,
+      "symbol": "IPRange.init(baseIP:range:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 20,
+      "symbol": "IPRange.init(withCIDRString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 37,
+      "symbol": "IPRange.init(withRangeString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 50,
+      "symbol": "IPRange.init(withString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPRange.swift",
+      "line": 64,
+      "symbol": "IPRange.inRange(ip:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 11,
+      "symbol": "IPv4Pool.start",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 12,
+      "symbol": "IPv4Pool.end",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 13,
+      "symbol": "IPv4Pool.currentEnd",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 14,
+      "symbol": "IPv4Pool.stepSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 15,
+      "symbol": "IPv4Pool.pool",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 17,
+      "symbol": "IPv4Pool.init(start:end:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 40,
+      "symbol": "IPv4Pool.fetchIP()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 50,
+      "symbol": "IPv4Pool.releaseIP(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/IPv4Pool.swift",
+      "line": 54,
+      "symbol": "IPv4Pool.isInPool(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/Port.swift",
+      "line": 55,
+      "symbol": "Port.valueInNetworkOrder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/Port.swift",
+      "line": 78,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/StreamScanner.swift",
+      "line": 3,
+      "symbol": "StreamScanner",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/StreamScanner.swift",
+      "line": 4,
+      "symbol": "StreamScanner.receivedData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/StreamScanner.swift",
+      "line": 5,
+      "symbol": "StreamScanner.pattern",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/StreamScanner.swift",
+      "line": 6,
+      "symbol": "StreamScanner.maximumLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/StreamScanner.swift",
+      "line": 7,
+      "symbol": "StreamScanner.finished",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/StreamScanner.swift",
+      "line": 9,
+      "symbol": "StreamScanner.currentLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/StreamScanner.swift",
+      "line": 13,
+      "symbol": "StreamScanner.init(pattern:maximumLength:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils/StreamScanner.swift",
+      "line": 19,
+      "symbol": "StreamScanner.addAndScan(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 3,
+      "symbol": "Utils",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 4,
+      "symbol": "Utils.HTTPData",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 5,
+      "symbol": "Utils.HTTPData.DoubleCRLF",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 6,
+      "symbol": "Utils.HTTPData.CRLF",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 7,
+      "symbol": "Utils.HTTPData.ConnectSuccessResponse",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 10,
+      "symbol": "Utils.DNS",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 12,
+      "symbol": "Utils.DNS.QueryType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 14,
+      "symbol": "Utils.DNS.QueryType.A",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 14,
+      "symbol": "Utils.DNS.QueryType.AAAA",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 14,
+      "symbol": "Utils.DNS.QueryType.UNSPEC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 17,
+      "symbol": "Utils.DNS.resolve(name:type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 33,
+      "symbol": "Utils.IP",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 34,
+      "symbol": "Utils.IP.isIPv4(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 42,
+      "symbol": "Utils.IP.isIPv6(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 48,
+      "symbol": "Utils.IP.isIP(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 52,
+      "symbol": "Utils.IP.IPv4ToInt(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 62,
+      "symbol": "Utils.IP.IPv4ToBytes(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 70,
+      "symbol": "Utils.IP.IPv6ToBytes(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 81,
+      "symbol": "Utils.GeoIPLookup",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 83,
+      "symbol": "Utils.GeoIPLookup.Lookup(ipAddress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/zhuhaow/NEKit/src/Utils.swift",
+      "line": 95,
+      "symbol": "Utils.toByteArray(value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/travis/build/zhuhaow/NEKit"
+}
